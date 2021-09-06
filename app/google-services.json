@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "558105622346",
+    "project_id": "jdcs-dadbd",
+    "storage_bucket": "jdcs-dadbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558105622346:android:0a56548651e8c2039bb3b3",
+        "android_client_info": {
+          "package_name": "com.deibidc.jdcs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558105622346-kveahuhl3tkngr6q27fntbfkl9g7psg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwDz4GebRzMVNoaGJbY3EKI87WFblZcOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558105622346-kveahuhl3tkngr6q27fntbfkl9g7psg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
